@@ -1,0 +1,22 @@
+{
+  "name": "fan-script",
+  "version": "1.0.0",
+  "description": "Fan script for use with Rasberri pi",
+  "main": "run-fan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-shaypeleg1:shaypeleg1/fan-script.git"
+  },
+  "keywords": [
+    "Rasberripi"
+  ],
+  "author": "shay.peleg",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^6.0.3",
+    "pi-temperature": "^2.1.0"
+  }
+}
